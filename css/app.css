@@ -20,6 +20,23 @@ h1 {
 	transform: translateY(-50%);
 }
 
+@media only screen and (max-width: 500px) {
+	.rwd-line{
+		display: block;
+		width: 100%;
+	}
+	h1{
+		font-size: 30vw;
+		position: relative;
+		top: 45%;
+		transform: translateY(-50%);
+	}
+	.seperate {
+		margin-top: 50px;
+	}
+}
+
+
 .red {
 	color: #fff;
 	-webkit-animation: neon1 4s ease-in-out infinite alternate;
