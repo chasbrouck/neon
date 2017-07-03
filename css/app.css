@@ -27,9 +27,6 @@ h1 {
 	}
 	h1{
 		font-size: 30vw;
-		position: relative;
-		top: 45%;
-		transform: translateY(-50%);
 	}
 	.seperate {
 		margin-top: 50px;
